@@ -1,5 +1,4 @@
 ###공약수
-
 def ps_5618():
     n = int(input())
     num = list(map(int, input().split()))
